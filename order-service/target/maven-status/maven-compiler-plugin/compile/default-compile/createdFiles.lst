@@ -1,0 +1,8 @@
+com/dragosmicroservice/orderservice/controller/OrderController.class
+com/dragosmicroservice/orderservice/repository/OrderRepository.class
+com/dragosmicroservice/orderservice/OrderServiceApplication.class
+com/dragosmicroservice/orderservice/dto/OrderRequest.class
+com/dragosmicroservice/orderservice/model/OrderLineItems.class
+com/dragosmicroservice/orderservice/service/OrderService.class
+com/dragosmicroservice/orderservice/dto/OrderLineItemsDto.class
+com/dragosmicroservice/orderservice/model/Order.class

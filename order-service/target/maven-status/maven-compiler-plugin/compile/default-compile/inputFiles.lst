@@ -1,0 +1,8 @@
+/Users/dragosbaci/Desktop/microservices-new/order-service/src/main/java/com/dragosmicroservice/orderservice/OrderServiceApplication.java
+/Users/dragosbaci/Desktop/microservices-new/order-service/src/main/java/com/dragosmicroservice/orderservice/dto/OrderLineItemsDto.java
+/Users/dragosbaci/Desktop/microservices-new/order-service/src/main/java/com/dragosmicroservice/orderservice/service/OrderService.java
+/Users/dragosbaci/Desktop/microservices-new/order-service/src/main/java/com/dragosmicroservice/orderservice/dto/OrderRequest.java
+/Users/dragosbaci/Desktop/microservices-new/order-service/src/main/java/com/dragosmicroservice/orderservice/model/Order.java
+/Users/dragosbaci/Desktop/microservices-new/order-service/src/main/java/com/dragosmicroservice/orderservice/controller/OrderController.java
+/Users/dragosbaci/Desktop/microservices-new/order-service/src/main/java/com/dragosmicroservice/orderservice/repository/OrderRepository.java
+/Users/dragosbaci/Desktop/microservices-new/order-service/src/main/java/com/dragosmicroservice/orderservice/model/OrderLineItems.java

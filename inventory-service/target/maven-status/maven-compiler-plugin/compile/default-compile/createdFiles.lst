@@ -1,0 +1,5 @@
+com/dragosmicroservice/inventoryservice/controller/InventoryController.class
+com/dragosmicroservice/inventoryservice/repository/InventoryRepository.class
+com/dragosmicroservice/inventoryservice/InventoryServiceApplication.class
+com/dragosmicroservice/inventoryservice/model/Inventory.class
+com/dragosmicroservice/inventoryservice/service/InventoryService.class
